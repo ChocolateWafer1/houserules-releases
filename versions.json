@@ -1,1 +1,42 @@
-{"versions": []}
+{
+    "versions":  [
+                     {
+                         "version":  "3.0.11",
+                         "title":  "Take a Seat",
+                         "date":  "2026-10-30",
+                         "size":  "First release",
+                         "summary":  "House Rules arrives in the Firefly Launcher, with a new art-deco look and a Chess \u0026 Checkers table.",
+                         "intro":  "House Rules is a poker game where you build the best hand you can and beat the house. Drag cards up onto the table, lock in your hand, and reach each dealer\u0027s target to climb to the next table. Every floor bends the rules a little, and every fourth floor a boss deals something nastier.\n\nThis is the first version in the Firefly Launcher. It comes with a whole new art-deco look, and a new Chess \u0026 Checkers table in Multiplayer.",
+                         "picture":  "https://raw.githubusercontent.com/ChocolateWafer1/houserules-releases/main/pictures/take-a-seat.jpg",
+                         "download":  "https://github.com/ChocolateWafer1/houserules-releases/releases/download/v3.0.11/HouseRules-3.0.11-win.zip",
+                         "bytes":  107995931,
+                         "sha256":  "3e6374942e58f80fe1e5ffcf0bc4d95ecec6b4f76c0ecd171d92f50f751d8b2b",
+                         "sections":  [
+                                          {
+                                              "title":  "New",
+                                              "items":  [
+                                                            "Chess \u0026 Checkers|A new table in Multiplayer. Play a friend online, or play the house on Easy, Medium or Hard.",
+                                                            "Chips for winning|In online games every piece you capture earns chips, and winning earns a bonus on top.",
+                                                            "Art-deco look|Every menu and screen has been remade in gold and velvet with new fonts, and fits 16:9, 16:10 and ultrawide screens.",
+                                                            "The Firefly Launcher|House Rules now installs and updates through the launcher, so you\u0027re always on the newest version."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "In the game",
+                                              "items":  [
+                                                            "The table|Drag cards up to play them, flick them down to swap them, then LOCK IN to score your hand.",
+                                                            "Floors and bosses|Each dealer has a house rule that changes how hands score. Beat eight of them, then see how far you can go.",
+                                                            "The shop|Spend your chips on card packs and unlock new card skins.",
+                                                            "Multiplayer|Poker duels against a friend, and now Chess \u0026 Checkers."
+                                                        ]
+                                          },
+                                          {
+                                              "title":  "Your progress",
+                                              "items":  [
+                                                            "Kept safe|Your chips, card skins, best floor and settings are saved outside the game\u0027s folder, so updating or removing a version never touches them."
+                                                        ]
+                                          }
+                                      ]
+                     }
+                 ]
+}
